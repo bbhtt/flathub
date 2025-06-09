@@ -1,4 +1,3 @@
-# Flathub
 
 Flathub is the central place for building and hosting Flatpak builds.
 
